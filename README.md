@@ -9,9 +9,9 @@
 
 official.ipynb - Runs all of our code over the groups of interest. It stores all of the figures as png files and all of the other results in a results text file.
 
-interactive.ipynb - Shows all the code seperated into different cells. This is intended to make it easy for interacting with and exploring the code.
+interactive.ipynb - Contains all the same code, but seperated into different cells. This is intended to make it easy for interacting with and exploring the code.
 
-results.pdf - This is our final paper on the project. It includes an explanation of our methods and discusses the results.
+results.pdf - This is our final paper on the project. It includes an explanation of our methods and discussion the results.
 
 -----------
 ### Launching
